@@ -1,7 +1,7 @@
 # Yeet-DS-Interviews
 Resources to Learn about a topic in general or for interview Prep to yeet it 
 ## How to Yeet Time Series 
-- <img src="https://github.com/Pushkaran-P/Yeet-DS-Interviews/assets/84492623/3f8ce313-f3f5-4ff7-afd3-5591866877c8" width="600" height="350">
+- <img src="https://github.com/Pushkaran-P/Yeet-DS-Interviews/assets/84492623/8ae00379-d0d4-4a8b-8628-6e371d215297" width="600" height="350">
 - https://www.youtube.com/watch?v=FsroWpkUuYI&list=PLjwX9KFWtvNnOc4HtsvaDf1XYG3O5bv5s An excellent YT playlist where each vid is under 5 mins
 - https://youtube.com/playlist?list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp For a more in-depth understanding of ACF and PACF
 - The classic book Forecasting: Principles and Practice https://otexts.com/fpp3/index.html
