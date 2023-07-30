@@ -1,4 +1,4 @@
-# Yeet-DS-Interviews
+# Yeet Data Science
 Resources to Learn about a topic in general or for interview Prep to yeet it 
 ## How to Yeet Time Series 
 - <img src="https://github.com/Pushkaran-P/Yeet-DS-Interviews/assets/84492623/8ae00379-d0d4-4a8b-8628-6e371d215297" width="600" height="350">
