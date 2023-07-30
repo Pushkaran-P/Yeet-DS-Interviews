@@ -10,4 +10,8 @@ Resources to Learn about a topic in general or for interview Prep to yeet it
 - An nice article on how time series workflow is used irl https://towardsdatascience.com/time-series-forecasting-flow-2e49740664de
 - Augmented Dickey Fuller Test for Stationary https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/
 - AIC Score https://builtin.com/data-science/what-is-aic
-- Does not include clustering (future ? )
+- Dyanamic Time Warping ( Clustering ) https://www.youtube.com/watch?v=_K1OsqCicBY
+
+## How to Yeet PCA
+- PCA https://youtu.be/FD4DeN81ODY
+- Why SVD in PCA ? https://www.youtube.com/watch?v=DQ_BkPHIl-g
