@@ -15,3 +15,7 @@ Resources to Learn about a topic in general or for interview Prep to yeet it
 ## How to Yeet PCA
 - PCA https://youtu.be/FD4DeN81ODY
 - Why SVD in PCA ? https://www.youtube.com/watch?v=DQ_BkPHIl-g
+
+## How to Yeet SVM
+- https://youtu.be/_YPScrckx28
+- Kernal Trick https://youtu.be/Q7vT0--5VII
