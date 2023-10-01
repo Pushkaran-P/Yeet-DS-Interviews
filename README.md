@@ -12,6 +12,7 @@ Resources to Learn about a topic in general or for interview Prep to yeet it
 - [ADF Test](https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/)
 - [AIC Score](https://builtin.com/data-science/what-is-aic)
 - [Dyanamic Time Warping](https://www.youtube.com/watch?v=_K1OsqCicBY)
+- [Chossing the Right Forecasting Metric](https://medium.com/@snk.nitin/how-to-choose-the-right-forecasting-metrics-for-your-problem-2e3236cc25ac)
 
 ## How to Yeet PCA
 - [PCA](https://youtu.be/FD4DeN81ODY)
