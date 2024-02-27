@@ -20,4 +20,4 @@ Resources to Learn about a topic in general or for interview Prep to yeet it
 - [Kernal Trick](https://youtu.be/Q7vT0--5VII)
 
 ## K Means Scoring
-- [Scores] (https://towardsdatascience.com/silhouette-method-better-than-elbow-method-to-find-optimal-clusters-378d62ff6891)
+- [Scores](https://towardsdatascience.com/silhouette-method-better-than-elbow-method-to-find-optimal-clusters-378d62ff6891)
